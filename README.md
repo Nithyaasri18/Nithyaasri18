@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nithyaasri/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Nithyaasri Saravanan-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
